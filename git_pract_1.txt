@@ -6,3 +6,9 @@ Git practice1
 Git practice2
 
 Edit file
+
+Edit file 2
+
+Edit file 3
+
+Thank you
