@@ -6,3 +6,12 @@ Git practice1
 Git practice2
 
 Edit file
+
+Edit file 2
+
+Edit file 3
+
+
+Edit file 4 after creating branch
+
+Thank you
